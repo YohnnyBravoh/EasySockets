@@ -5,9 +5,16 @@ A wrapper for sockets making networking easy!
 Simply reference the 'EasySockets.dll' file in your project.
 
 ## Usage
-TODO: Write usage instructions
 ```
-Give examples
+            Server server = new Server();
+            server.ClientAccepted += Server_ClientAccepted;
+            server.DataReceived += Server_DataReceived;
+            server.ClientDisconnected += Server_ClientDisconnected;
+
+            server.Encryption = new RijndaelEncryption("encryptionKey");
+            server.Compression = new GZip();
+
+            ServerController.Listen(server, 100);
 ```
 
 ## Credits
