@@ -6,15 +6,15 @@ Simply reference the 'EasySockets.dll' file in your project.
 
 ## Usage
 ```
-            Server server = new Server();
-            server.ClientAccepted += Server_ClientAccepted;
-            server.DataReceived += Server_DataReceived;
-            server.ClientDisconnected += Server_ClientDisconnected;
+Server server = new Server();
+server.ClientAccepted += Server_ClientAccepted;
+server.DataReceived += Server_DataReceived;
+server.ClientDisconnected += Server_ClientDisconnected;
 
-            server.Encryption = new RijndaelEncryption("encryptionKey");
-            server.Compression = new GZip();
+server.Encryption = new RijndaelEncryption("encryptionKey");
+server.Compression = new GZip();
 
-            ServerController.Listen(server, 100);
+ServerController.Listen(server, 100);
 ```
 
 ## Credits
