@@ -19,8 +19,8 @@ ServerController.Listen(server, 100);
 ```
 
 ## Credits
-- Yohnny Bravoh
-- Tyrone
+* Tyrone
+* Yohnny Bravoh
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
