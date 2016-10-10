@@ -5,7 +5,7 @@ A wrapper for sockets making networking easy!
 Simply reference the 'EasySockets.dll' file in your project.
 
 ## Usage
-The following example can be applied to the "Client" class as well.
+The following example can be applied to both models "Server" and "Client".
 ```
 Server server = new Server();
 server.ClientAccepted += Server_ClientAccepted;
