@@ -6,6 +6,9 @@ Simply reference the 'EasySockets.dll' file in your project.
 
 ## Usage
 TODO: Write usage instructions
+```
+Give examples
+```
 
 ## Credits
 - Yohnny Bravoh
