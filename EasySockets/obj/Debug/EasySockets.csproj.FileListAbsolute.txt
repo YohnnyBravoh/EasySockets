@@ -1,0 +1,10 @@
+D:\Users\Johnny Bravo\Documents\Visual Studio 2015\Projects\[GENERAL STUDIES]\EasySockets\EasySockets\bin\Debug\EasySockets.dll
+D:\Users\Johnny Bravo\Documents\Visual Studio 2015\Projects\[GENERAL STUDIES]\EasySockets\EasySockets\bin\Debug\EasySockets.pdb
+D:\Users\Johnny Bravo\Documents\Visual Studio 2015\Projects\[GENERAL STUDIES]\EasySockets\EasySockets\obj\Debug\EasySockets.dll
+D:\Users\Johnny Bravo\Documents\Visual Studio 2015\Projects\[GENERAL STUDIES]\EasySockets\EasySockets\obj\Debug\EasySockets.pdb
+D:\Users\Johnny Bravo\Documents\Visual Studio 2015\Projects\[GENERAL STUDIES]\EasySockets - Copy\EasySockets\bin\Debug\EasySockets.dll
+D:\Users\Johnny Bravo\Documents\Visual Studio 2015\Projects\[GENERAL STUDIES]\EasySockets - Copy\EasySockets\bin\Debug\EasySockets.pdb
+D:\Users\Johnny Bravo\Documents\Visual Studio 2015\Projects\[GENERAL STUDIES]\EasySockets - Copy\EasySockets\obj\Debug\EasySockets.csprojResolveAssemblyReference.cache
+D:\Users\Johnny Bravo\Documents\Visual Studio 2015\Projects\[GENERAL STUDIES]\EasySockets - Copy\EasySockets\obj\Debug\EasySockets.dll
+D:\Users\Johnny Bravo\Documents\Visual Studio 2015\Projects\[GENERAL STUDIES]\EasySockets - Copy\EasySockets\obj\Debug\EasySockets.pdb
+D:\Users\Johnny Bravo\Documents\Visual Studio 2015\Projects\[GENERAL STUDIES]\EasySockets\EasySockets\obj\Debug\EasySockets.csprojResolveAssemblyReference.cache
