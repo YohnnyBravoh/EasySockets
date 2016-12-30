@@ -19,7 +19,7 @@ ServerController.Listen(server, 100);
 ```
 
 ## Credits
-* Tyrone
+* Tyrone (organisation)
 * Yohnny Bravoh
 
 ## License
